@@ -33,6 +33,8 @@ namespace WebApi
             services.AddScoped<IContactsDal, ContactsDal>();
             services.AddScoped<IPhonesService, PhonesManager>();
             services.AddScoped<IPhonesDal, PhonesDal>();
+            services.AddScoped<IUsersService, UsersManager>();
+            services.AddScoped<IUsersDal, UsersDal>();
 
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer(options =>

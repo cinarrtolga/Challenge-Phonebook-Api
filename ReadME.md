@@ -1,5 +1,5 @@
-# About Project
-I developed this web api project for a online phonebook. It is working via phone number. After token authorization, you can access all methods. I added swagger for easy to use. 
+# About Web Api
+I developed this web api project for a online phonebook. It is working via phone number. Token Authorization is working with user from [Tbl_WebApi_Users] Because of that, you should add a user for authentication when you run it first. After token authorization, you can access all methods. I added swagger for easy to use. 
 
 # Installation
 Update database path from [DataAccess.Concrete.EntityFramework.DatabaseContext] file and then run as follows command in DataAccess project root path.
@@ -17,4 +17,6 @@ dotnet restore
 dotnet build
 ```
 
-You can run api from WebApi folder.
+After take success from those commands, you can run api from WebApi folder.
+
+# Features

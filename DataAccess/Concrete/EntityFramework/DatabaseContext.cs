@@ -13,6 +13,7 @@ namespace DataAccess.Concrete.EntityFramework
 
         public DbSet<Phones> Tbl_Phones { get; set; }
         public DbSet<Contacts> Tbl_Contacts { get; set; }
+        public DbSet<Users> Tbl_WebApi_Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
