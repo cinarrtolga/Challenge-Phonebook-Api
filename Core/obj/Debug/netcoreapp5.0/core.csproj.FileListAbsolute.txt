@@ -1,0 +1,9 @@
+c:\Users\edgar\Documents\Projects\GitHub\Challenge-Phonebook-Api\Core\bin\Debug\netcoreapp5.0\core.deps.json
+c:\Users\edgar\Documents\Projects\GitHub\Challenge-Phonebook-Api\Core\bin\Debug\netcoreapp5.0\core.dll
+c:\Users\edgar\Documents\Projects\GitHub\Challenge-Phonebook-Api\Core\bin\Debug\netcoreapp5.0\core.pdb
+c:\Users\edgar\Documents\Projects\GitHub\Challenge-Phonebook-Api\Core\obj\Debug\netcoreapp5.0\core.AssemblyInfoInputs.cache
+c:\Users\edgar\Documents\Projects\GitHub\Challenge-Phonebook-Api\Core\obj\Debug\netcoreapp5.0\core.AssemblyInfo.cs
+c:\Users\edgar\Documents\Projects\GitHub\Challenge-Phonebook-Api\Core\obj\Debug\netcoreapp5.0\core.csproj.CoreCompileInputs.cache
+c:\Users\edgar\Documents\Projects\GitHub\Challenge-Phonebook-Api\Core\obj\Debug\netcoreapp5.0\core.dll
+c:\Users\edgar\Documents\Projects\GitHub\Challenge-Phonebook-Api\Core\obj\Debug\netcoreapp5.0\core.pdb
+c:\Users\edgar\Documents\Projects\GitHub\Challenge-Phonebook-Api\Core\obj\Debug\netcoreapp5.0\core.csprojAssemblyReference.cache
