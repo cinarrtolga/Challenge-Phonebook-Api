@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "model/1.0.0": {
+      "Model/1.0.0": {
         "dependencies": {
           "core": "1.0.0"
         },
         "runtime": {
-          "model.dll": {}
+          "Model.dll": {}
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -192,7 +192,7 @@
     }
   },
   "libraries": {
-    "model/1.0.0": {
+    "Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -69,12 +69,12 @@
         }
       }
     },
-    "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\Core.csproj": {
+    "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\Core.csproj",
-        "projectName": "Core",
-        "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj",
+        "projectName": "core",
+        "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
         "outputPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -150,8 +150,8 @@
         "frameworks": {
           "net5.0": {
             "projectReferences": {
-              "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\Core.csproj"
+              "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj"
               },
               "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Model\\Model.csproj": {
                 "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Model\\Model.csproj"
@@ -225,8 +225,8 @@
         "frameworks": {
           "net5.0": {
             "projectReferences": {
-              "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\Core.csproj"
+              "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj": {
+                "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj"
               }
             }
           }

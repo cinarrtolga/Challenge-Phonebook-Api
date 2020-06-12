@@ -1357,23 +1357,23 @@
           "business.dll": {}
         }
       },
-      "Core/1.0.0": {
+      "core/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.5"
         },
         "runtime": {
-          "Core.dll": {}
+          "core.dll": {}
         },
         "compile": {
-          "Core.dll": {}
+          "core.dll": {}
         }
       },
       "dataaccess/1.0.0": {
         "dependencies": {
-          "Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
-          "Model": "1.0.0"
+          "Model": "1.0.0",
+          "core": "1.0.0"
         },
         "runtime": {
           "dataaccess.dll": {}
@@ -1384,7 +1384,7 @@
       },
       "Model/1.0.0": {
         "dependencies": {
-          "Core": "1.0.0"
+          "core": "1.0.0"
         },
         "runtime": {
           "Model.dll": {}
@@ -3839,7 +3839,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Core/1.0.0": {
+    "core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

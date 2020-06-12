@@ -642,11 +642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj",
+      "projectUniqueName": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj",
       "projectName": "core",
-      "projectPath": "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj",
+      "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj",
       "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\obj\\",
+      "outputPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",

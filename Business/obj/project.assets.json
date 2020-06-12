@@ -1253,27 +1253,27 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Core/1.0.0": {
+      "core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.5"
         },
         "compile": {
-          "bin/placeholder/Core.dll": {}
+          "bin/placeholder/core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Core.dll": {}
+          "bin/placeholder/core.dll": {}
         }
       },
       "dataaccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
-          "Model": "1.0.0"
+          "Model": "1.0.0",
+          "core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/dataaccess.dll": {}
@@ -1286,7 +1286,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Core": "1.0.0"
+          "core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Model.dll": {}
@@ -4965,10 +4965,10 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Core/1.0.0": {
+    "core/1.0.0": {
       "type": "project",
-      "path": "../Core/Core.csproj",
-      "msbuildProject": "../Core/Core.csproj"
+      "path": "../Core/core.csproj",
+      "msbuildProject": "../Core/core.csproj"
     },
     "dataaccess/1.0.0": {
       "type": "project",

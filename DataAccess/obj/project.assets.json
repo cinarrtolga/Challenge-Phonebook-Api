@@ -1282,17 +1282,17 @@
           "bin/placeholder/core.dll": {}
         }
       },
-      "model/1.0.0": {
+      "Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "core": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/model.dll": {}
+          "bin/placeholder/Model.dll": {}
         },
         "runtime": {
-          "bin/placeholder/model.dll": {}
+          "bin/placeholder/Model.dll": {}
         }
       }
     }
@@ -4987,10 +4987,10 @@
       "path": "../Core/core.csproj",
       "msbuildProject": "../Core/core.csproj"
     },
-    "model/1.0.0": {
+    "Model/1.0.0": {
       "type": "project",
-      "path": "../Model/model.csproj",
-      "msbuildProject": "../Model/model.csproj"
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4998,8 +4998,8 @@
       "Microsoft.EntityFrameworkCore >= 3.1.5",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.5",
-      "core >= 1.0.0",
-      "model >= 1.0.0"
+      "Model >= 1.0.0",
+      "core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5008,11 +5008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\DataAccess\\DataAccess.csproj",
-      "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\DataAccess\\dataaccess.csproj",
+      "projectName": "dataaccess",
+      "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\DataAccess\\dataaccess.csproj",
       "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\DataAccess\\obj\\",
+      "outputPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5028,11 +5028,11 @@
       "frameworks": {
         "net5.0": {
           "projectReferences": {
-            "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj": {
-              "projectPath": "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj"
+            "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj": {
+              "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Core\\core.csproj"
             },
-            "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Model\\model.csproj": {
-              "projectPath": "C:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Model\\model.csproj"
+            "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Model\\Model.csproj": {
+              "projectPath": "c:\\Users\\edgar\\Documents\\Projects\\GitHub\\Challenge-Phonebook-Api\\Model\\Model.csproj"
             }
           }
         }
